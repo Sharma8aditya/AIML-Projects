@@ -23,7 +23,7 @@ list_of_files = [
     "requirements.txt",
     "requirements_dev.txt",
     "setup.py",
-    "setup.config",
+    "setup.cfg",
     "pyproject.toml",
     "tox.ini",
     "experiment/experiments.ipynb"
